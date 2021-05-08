@@ -1,0 +1,16 @@
+{
+    "name": "student-sign-in-api",
+    "discription": "Vue and express app, student sign in API",
+    "author": "Jake",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "pg": "^8.6.0",
+        "sequelize": "^6.6.2"
+    },
+    "devDependencies": {
+        "sqlite3": "^5.0.2"
+    }
+}
